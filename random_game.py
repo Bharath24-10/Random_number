@@ -2,6 +2,8 @@ import random
 
 number_guessed=random.randrange(100)
 
+print("new game")
+
 number_of_chance=3
 
 guessed=0
